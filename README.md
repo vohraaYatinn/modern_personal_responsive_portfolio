@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+npm i
+npm start
+import react scripts in terminal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+screenshots
 
-## Available Scripts
+![image](https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/7f185bb0-9ef4-4592-a000-6d22cb2e43be)
+<img width="1440" alt="Screenshot 2023-08-20 at 12 07 04 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/5d8b10bc-2f1a-4c34-b54f-e01600a12689">
+<img width="1440" alt="Screenshot 2023-08-20 at 12 07 11 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/953ef317-76be-4515-aec0-7f7bf51ea37a">
+<img width="1440" alt="Screenshot 2023-08-20 at 12 07 18 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/1a8f42b1-a556-438b-90fe-e7062d2b6b3f">
+<img width="1440" alt="Screenshot 2023-08-20 at 12 07 26 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/d3bad258-47d9-46bf-9254-9e64fdc4b5a2">
+<img width="1440" alt="Screenshot 2023-08-20 at 12 07 32 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/78feeab9-bf90-4c7d-97a8-3180f71fcd5d">
+<img width="1440" alt="Screenshot 2023-08-20 at 12 07 40 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/f419afeb-4e65-4297-bc8e-e011e67661f4">
+<img width="1440" alt="Screenshot 2023-08-20 at 12 07 45 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/baf1981b-ef0f-4154-9c63-1c4b6759490e">
 
-In the project directory, you can run:
+mobile view
+<img width="286" alt="Screenshot 2023-08-20 at 12 08 34 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/f2078f68-9913-45c3-a4ec-a3969b48a0a1">
+<img width="286" alt="Screenshot 2023-08-20 at 12 08 40 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/63eda9d4-2bc3-4db1-9cf6-8f5a6041a6b0">
+<img width="286" alt="Screenshot 2023-08-20 at 12 08 44 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/7a090f13-4140-4b7e-a3a2-6cdc9b64f408">
+<img width="286" alt="Screenshot 2023-08-20 at 12 09 01 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/b55a7dc6-89a0-4b2a-b15a-0099d5ca42dd">
+<img width="286" alt="Screenshot 2023-08-20 at 12 09 06 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/8890f389-cff3-48c3-b782-0d8b009bf19c">
+<img width="286" alt="Screenshot 2023-08-20 at 12 09 10 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/1c1be4c5-9110-42b6-ba6d-da10f1ebfc3a">
+<img width="286" alt="Screenshot 2023-08-20 at 12 09 13 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/67971cd8-3774-4584-8b95-fcdfc122de9b">
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
