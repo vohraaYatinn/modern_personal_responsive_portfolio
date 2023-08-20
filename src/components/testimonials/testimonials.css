@@ -1,0 +1,41 @@
+.testimonial__card {
+  max-width: 50vw;
+  background-color: var(--color-bg-variant);
+  border: 1px solid transparent;
+  border-radius: 40px;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-self: center;
+}
+.testimonial__photo img {
+  height: 10vh;
+  width: auto;
+  padding-bottom: 1.2rem;
+}
+.testimonial__card p {
+  color: var(--color-light);
+  width: 70%;
+}
+.mySwiper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 4rem;
+}
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 600px) {
+  .testimonial__card p {
+    width: 100%;
+    font-size: 0.8rem;
+  }
+  .hidden {
+    display: none;
+  }
+}

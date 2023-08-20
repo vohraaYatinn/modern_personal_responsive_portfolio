@@ -1,0 +1,39 @@
+.portfolio__container {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(2, auto);
+  gap: 1.5rem;
+}
+
+.portfolio__card {
+  background-color: var(--color-bg-variant);
+  border: 1px solid transparent;
+  padding: 1rem;
+  cursor: pointer;
+  border-radius: 10%;
+}
+.card_content {
+  text-align: center;
+}
+.card_content p {
+  margin-top: 1rem;
+  margin-bottom: -1.4rem;
+}
+
+.card__img img {
+  height: calc(20rem - 10vw);
+}
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 600px) {
+  .portfolio__container {
+    grid-template-columns: auto;
+    /* grid-template-rows: repeat(2, auto); */
+    gap: 1.5rem;
+  }
+  .hidden {
+    display: none;
+  }
+}
