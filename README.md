@@ -13,7 +13,12 @@ screenshots
 <img width="1440" alt="Screenshot 2023-08-20 at 12 07 40 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/f419afeb-4e65-4297-bc8e-e011e67661f4">
 <img width="1440" alt="Screenshot 2023-08-20 at 12 07 45 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/baf1981b-ef0f-4154-9c63-1c4b6759490e">
 
+
+
 mobile view
+
+
+
 <img width="286" alt="Screenshot 2023-08-20 at 12 08 34 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/f2078f68-9913-45c3-a4ec-a3969b48a0a1">
 <img width="286" alt="Screenshot 2023-08-20 at 12 08 40 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/63eda9d4-2bc3-4db1-9cf6-8f5a6041a6b0">
 <img width="286" alt="Screenshot 2023-08-20 at 12 08 44 PM" src="https://github.com/vohraaYatinn/modern_personal_responsive_portfolio/assets/96340665/7a090f13-4140-4b7e-a3a2-6cdc9b64f408">
